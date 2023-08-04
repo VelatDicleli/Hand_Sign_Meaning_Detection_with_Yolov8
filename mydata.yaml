@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/sample3/hands/train/images  
+val: /content/drive/MyDrive/sample3/hands/valid/images
+
+nc : 5
+
+names : ["Iyi sanslar","Onaylandi","Onaylanmadi","Seni seviyorum","Tamam"]
